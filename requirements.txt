@@ -1,0 +1,1 @@
+pip install pyautogui instaloader pydrive python-dotenv
